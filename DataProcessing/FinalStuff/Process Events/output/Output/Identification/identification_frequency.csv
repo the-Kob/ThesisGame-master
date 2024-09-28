@@ -1,0 +1,17 @@
+"realQuadrant","Perceived_Quadrant","Frequency"
+"SC","SC",41
+"SC","SF",12
+"SC","OC",3
+"SC","OF",6
+"SF","SC",10
+"SF","SF",34
+"SF","OC",11
+"SF","OF",7
+"OC","SC",4
+"OC","SF",11
+"OC","OC",41
+"OC","OF",6
+"OF","SC",7
+"OF","SF",5
+"OF","OC",7
+"OF","OF",43

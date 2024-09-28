@@ -1,0 +1,18 @@
+Age: Min, Max, Média
+Sexo: Percentagem
+
+IDs com empate no quadrante observado:
+[1]
+
+latex: clever ref
+
+OPTIONAL:
+Correlate (IMI_IE, GEQ)
+Correlate (IMI_IE, EXP_RATE)
+Correlate (Score, GEQ)
+Correlate (Score, EXP_RATE)
+
+FALTA:
+PAIR-WISE COMPARISONS DOS FREEDMANS SIGNIFICATIVOS
+RESTO DOS BOXPLOTS
+(No boxplot meter uma letra para as distribuições diferentes que deram significativas nas pair-wise comparisons)

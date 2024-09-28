@@ -1,0 +1,53 @@
+Questionário da tese:
+
+ID do estudo, Nome, idade, grau académico
+=======================================
+#### Secção dos companions ####
+=======================================
+{Foto do modelo de interação}
+"Identifica os 4 companions no modelo de interação"
+1.
+2.
+3.
+4.
+Opções:
+Other's Facilitator
+Self Facilitator
+Other's Complicator
+Self Complicator
+===============
+Dos quatro companions, qual foi aquele que mais se destacou em termos de social presence:
+[Escolha multipla de 1 a 4, com mais uma a dizer "todos iguais"]
+===============
+Dos quatro companions, qual foi aquele com que te divertiste mais a jogar
+[Escolha multipla de 1 a 4, com mais uma a dizer "todos iguais"]
+===============
+Sendo totalmente imparcial no que toca ao score, qual dos companions sentes que trouxe uma melhor experiência de jogo
+[Escolha multipla de 1 a 4, com mais uma a dizer "todos iguais"]
+=======================================
+#### Secção do uso de bufs ####
+=======================================
+"Usei buffs e debuffs porque a situação assim o exigiu" (Likert Scale)
+=======================================
+"Usei buffs e debuffs simplesmente porque tinha essa escolha, sem influência de fatores externos" (Likert scale)
+=======================================
+Diga de mais usado (1), para menos usado (4), que tipo de efeito usou.
+
+. Buff aos inimigos do meu companheiro
+. Nerf aos inimigos do meu companheiro
+. Buff aos meus inimigos
+. Nerf aos meus inimigos
+=======================================
+Diga-nos o motivo que o levou a usar mais o efeito acima escolhido:
+[Resposta Curta]
+=======================================
+Diga-nos o motivo que o levou a usar menos o efeito acima escolhido:
+[Resposta Curta]
+=======================================
+
+O que fazer:
+Guardar métricas (buffs usados, tanto pelo companion como pelo jogador; quantas vezes morreu; score)
+Meter algum identificador de qual é o companheiro que está a ser jogado
+Comando a vibrar
+Meter a mira do tamanho do ataque secundário DONE
+Fazer imagem 14.5 DONE
